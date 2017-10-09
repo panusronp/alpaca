@@ -1,0 +1,53 @@
+<html> 
+
+<head> 
+
+<title>Alpaca</title> 
+
+</head> 
+
+<body bgcolor="#BEBEBE"> 
+
+
+
+<table width=800 height=600 border=0 align="center"> 
+
+<tr><td width=700 height=200> 
+
+
+
+<tr bgcolor="black"><td valign="top"><font size=4 color="#FFFFFF"> 
+
+
+
+<tr><td><table width=700> 
+
+<tr><td height=25></td></tr> 
+
+<tr><td align="center" bgcolor="#BEBEBE"> 
+
+
+
+<td>Welcome to My Web 
+
+<br>You are Happy</td> 
+
+</td> 
+
+</tr> 
+
+</table> 
+
+<tr bgcolor="black"><td align="center"><font color="#FFFFFA">KMUTT<br> 
+
+<a href="mailto:panu0710@hotmail.com ">Email:</td></tr> 
+
+</td> 
+
+</tr> 
+
+</table> 
+
+</body> 
+
+</html>
